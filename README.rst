@@ -34,6 +34,8 @@ Download prebuilt binaries
 
 -  `Windows <https://github.com/tzutalin/labelImg/releases>`__
 
+#SIMPLEST TI USE FOR WINDOWS
+
 -  macOS. Binaries for macOS are not yet available. Help would be appreciated. At present, it must be `built from source <#macos>`__.
 
 Build from source
